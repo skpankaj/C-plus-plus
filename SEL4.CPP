@@ -1,4 +1,4 @@
-/*Sunil (Nalanda,Bihar) & co......C++
+
 /*comparision for two string using call by reference[sel4.cpp]*/
 #include<iostream.h>
 #include<conio.h>
