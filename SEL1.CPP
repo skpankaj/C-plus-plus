@@ -1,4 +1,4 @@
-/*Sunil (Nalanda,Bihar) & co......C++
+/*Sarvendra Kumar Pankaj......C++*/
 /* program for matrix representation using class[sel1.cpp]*/
 #include<iostream.h>
 #include<conio.h>
