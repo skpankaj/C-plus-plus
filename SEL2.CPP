@@ -1,4 +1,4 @@
-/*Sunil (Nalanda,Bihar) & co......C++
+/Sarvendra kumar Pankaj......C++
 /*wap for transpose of matrix narmally*/
 #include<iostream.h>
 #include<conio.h>
