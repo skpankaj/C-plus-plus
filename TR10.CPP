@@ -1,4 +1,4 @@
-/*Sunil (Nalanda,Bihar) & co......C++
+/*sarvendra......C++
 /*program for pre and post decimal using friend function[tr10.cpp]*/
 #include<iostream.h>
 #include<conio.h>
